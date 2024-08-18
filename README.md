@@ -1,3 +1,5 @@
+A now redundant fork of a tensorflow chatbot off of a youtube tutorial
+
 # Tensorflow Chatbot
 Tensorflow Chatbot Demo by @Sirajology on [Youtube](https://youtu.be/SJDEOWLHYVo)
 
